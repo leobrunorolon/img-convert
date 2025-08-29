@@ -36,13 +36,16 @@ def main():
 if __name__ == "__main__":
     main()
 
-# crear venv
+# crear venv e instalacion
 # python3 -m venv venv
-#activar venv
 # source venv/bin/activate
 # python -m pip install pyperclip
 # python convert_md_imgs.py
 
 
-
+# Activar el venv
 # source venv/bin/activate
+# python3 convert_md_imgs.py
+
+# Desactivar el venv
+# deactivate
